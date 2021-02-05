@@ -4,7 +4,7 @@
 
 至今已经有了半年！
 
-![image-20210205220859914](C:\Users\Administrator\Desktop\Server\夜阑星空群服务器\part2\img\1.md)
+![image-20210205220859914](README.assets/1.md)
 
 本服务器采用白名单制
 
