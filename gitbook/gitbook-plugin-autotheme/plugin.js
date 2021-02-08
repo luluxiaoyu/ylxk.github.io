@@ -97,9 +97,9 @@ require(['gitbook'], function (gitbook) {
 		}
 	};
 	gitbook.events.bind('start', function (e, config) {
-		white = config.autotheme.white || [9, 10, 11, 12, 13, 14, 15, 16];
-		sepia = config.autotheme.sepia || [6, 7, 8, 17, 18, 19];
-		night = config.autotheme.night || [20, 21, 22, 23, 0, 1, 2, 3, 4, 5];
+		white = config.autotheme.white || [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17];
+		sepia = config.autotheme.sepia || [];
+		night = config.autotheme.night || [18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6];
 		changeTheme();
 	});
 
