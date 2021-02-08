@@ -91,7 +91,7 @@ require(['gitbook'], function (gitbook) {
 		if (white.indexOf(hour) > -1) {
 			toggleClass('color-theme-0');
 		} else if (sepia.indexOf(hour) > -1) {
-			toggleClass('color-theme-1');
+			toggleClass('color-theme-2');
 		} else if (night.indexOf(hour) > -1) {
 			toggleClass('color-theme-2');
 		}
